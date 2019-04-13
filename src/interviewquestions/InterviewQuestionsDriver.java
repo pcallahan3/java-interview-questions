@@ -16,6 +16,12 @@ public class InterviewQuestionsDriver {
 		//Create a new CountWordsInAHashmap object
 		CountWordsInHashmap newMap = new CountWordsInHashmap("Hello hello to all the wordld");
 		
+		int[] indexOfElm = new int[20];
+		InsertElementAtIndex newElement = new InsertElementAtIndex(indexOfElm, 2);
+		newElement.insertNewValue(19900);
+		
+		
+		
 	}
 
 }

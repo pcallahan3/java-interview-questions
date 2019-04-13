@@ -35,7 +35,10 @@ public class CountWordsInHashmap {
 
 			}
 			System.out.println(mapWords);
+			
 		}
+		System.out.println("");
 		
 	}	
+	
 }
